@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'weekly management'
+  name: 'weekly schedule management'
 
 steps:
 - task: Maven@3
